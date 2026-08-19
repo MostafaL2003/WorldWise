@@ -1,0 +1,50 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Cairo",
+      "countryName": "Egypt",
+      "date": "2026-08-12",
+      "notes": "",
+      "position": {
+        "lat": 29.880696348773192,
+        "lng": 31.31533583347127
+      },
+      "id": "3E9sX9P1kjM"
+    },
+    {
+      "cityName": "Agueda",
+      "countryName": "Portugal",
+      "date": "2026-08-12",
+      "notes": "",
+      "position": {
+        "lat": 40.66618094304209,
+        "lng": -8.393554687500002
+      },
+      "id": "bQtDRi4md44"
+    },
+    {
+      "cityName": "Covilha",
+      "countryName": "Portugal",
+      "date": "2026-08-13",
+      "notes": "",
+      "position": {
+        "lat": 40.2798152094713,
+        "lng": -7.426710133151651
+      },
+      "id": "Ee_RYNNRhKU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
